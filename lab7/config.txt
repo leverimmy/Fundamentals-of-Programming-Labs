@@ -1,0 +1,8 @@
+#SIZE=10
+SIZE = 10.0
+SIZE = 10
+SIZE = 5
+RAND=100
+RAND=10.0
+R
+     RAND               =                        50

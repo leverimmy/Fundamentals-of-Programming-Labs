@@ -1,0 +1,4 @@
+SIZE=4
+RAND=20
+LOG=err.log
+BOX=TRUE
