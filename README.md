@@ -1,7 +1,6 @@
-# Fundamentals of Programming: Labs
-Repository for codes of labs of Fundamentals of Programming, Fall 2023
+# Fundamentals-of-Programming-Labs
 
-对应的是 [徐明星](https://www.bnrist.tsinghua.edu.cn/info/1091/2842.htm) 老师的《程序设计基础》课程的实验部分。
+Repository for codes of labs of Fundamentals of Programming, Fall 2023
 
 | 实验名称 |                            内容                             | 备注 |
 | :------: | :---------------------------------------------------------: | :--: |
@@ -14,4 +13,3 @@ Repository for codes of labs of Fundamentals of Programming, Fall 2023
 |   lab7   |                         lab6 升级版                         |      |
 |   lab8   |                         lab7 升级版                         |      |
 |   labA   |                 对 Hanoi 塔程序进行单步调试                 |      |
-
