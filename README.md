@@ -1,6 +1,6 @@
 # Fundamentals-of-Programming-Labs
 
-Repository for codes of labs of Fundamentals of Programming, Fall 2023
+Repository for the codes of labs of Fundamentals of Programming, Fall 2023
 
 | 实验名称 |                            内容                             | 备注 |
 | :------: | :---------------------------------------------------------: | :--: |
