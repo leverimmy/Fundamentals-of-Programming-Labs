@@ -4,7 +4,7 @@ Repository for the codes of the labs of Fundamentals of Programming, Fall 2023
 
 | 实验名称 |                            内容                             | 备注 |
 | :------: | :---------------------------------------------------------: | :--: |
-|   lab1   | C++ 基础语法，`cin`、`cout`、`using namespace std` 等的使用 |      |
+|   lab1   | C++ 基础语法，`std::cin`、`std::cout`、`using namespace std` 等的使用 |      |
 |   lab2   |                 `std::set precision` 的用法                 | 选做 |
 |   lab3   |                            日历                             |      |
 |   lab4   |                    判断闰年以及单步调试                     | 选做 |
